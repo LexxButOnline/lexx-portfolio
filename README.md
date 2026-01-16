@@ -3,7 +3,7 @@
 
 Online profile and portfolio for Lexx Chaplin
 
-- [View Site](lexxchaplin.com)
+- [View Site](https://lexxchaplin.com)
 ## Author
 
 - [@LexxButOnline](https://www.github.com/LexxButOnline)
