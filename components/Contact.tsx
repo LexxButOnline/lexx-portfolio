@@ -1,7 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope, faCode } from '@fortawesome/free-solid-svg-icons';
-import "@fortawesome/fontawesome-svg-core/styles.css";
 
 export default function Contact() {
     return (
